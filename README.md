@@ -1,17 +1,12 @@
 # SYNOPSIS
 
-[![NPM Package](https://img.shields.io/npm/v/ethereumjs-account.svg?style=flat-square)](https://www.npmjs.org/package/ethereumjs-account)
-[![Build Status](https://img.shields.io/travis/ethereumjs/ethereumjs-account.svg?branch=master&style=flat-square)](https://travis-ci.org/ethereumjs/ethereumjs-account)
-[![Coverage Status](https://img.shields.io/coveralls/ethereumjs/ethereumjs-account.svg?style=flat-square)](https://coveralls.io/r/ethereumjs/ethereumjs-account)
-[![Gitter](https://img.shields.io/gitter/room/ethereum/ethereumjs-lib.svg?style=flat-square)](https://gitter.im/ethereum/ethereumjs-lib) or #ethereumjs on freenode
+[![NPM Package](https://img.shields.io/npm/v/expansejs-account.svg?style=flat-square)](https://www.npmjs.org/package/expansejs-account)
+[![Build Status](https://img.shields.io/travis/expansejs/expansejs-account.svg?branch=master&style=flat-square)](https://travis-ci.org/expansejs/expansejs-account)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
- [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-
-Implements schema and functions relating to accounts stored ethereum's state Trie   
-NOTE: this is different from [ethereumjs-accounts](https://github.com/SilentCicero/ethereumjs-accounts) which should be used if you want to key management and web3 sugar.
 
 # INSTALL
-`npm install ethereumjs-account`
+`npm install expansejs-account`
 
 # BROWSER
 This module work with `browserify`

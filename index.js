@@ -1,4 +1,4 @@
-const ethUtil = require('ethereumjs-util')
+const ethUtil = require('expansejs-util')
 const rlp = require('rlp')
 
 var Account = module.exports = function (data) {
